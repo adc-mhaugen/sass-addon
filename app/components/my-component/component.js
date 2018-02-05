@@ -1,0 +1,1 @@
+export { default } from 'sass-addon/components/my-component/component';
